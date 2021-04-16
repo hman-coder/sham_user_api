@@ -1,0 +1,16 @@
+{
+  "name": "sham_user_api",
+  "version": "1.0.0",
+  "description": "The api for users using Sham Bookstore mobile application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hesham Seddik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
